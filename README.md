@@ -1,10 +1,10 @@
-- 👋 Hi, I’m ccjt (Autumn)
-- 👀 I’m interested in coding and all that shit
-- 🌱 I’m currently learning spanish and plan on learning Python for gamedev soon
-- 💞️ I’m looking to collaborate on MPP bots or others
+- 👋 Hi, I’m ccjt
+- 👀 I’m interested in coding and cubing and music production and art and color theory and math and sex
+- 🌱 I’m currently learning spanish and plan on learning Python for gamedev soon (oops i accidentally learned how to make games using html js and css)
+- 💞️ I’m looking to collaborate on anything web related that isn't a business
 - 📫 How to reach me: Friend me on my Discord, @circjit - or - Email me at circjit@gmail.com
 - 😄 Pronouns: she/her
-- ✨ Fun fact: My main YouTube channel originally started as an ElectroBOOM related channel 
+- ✨ Fun fact: I came
 - ⚡ Always remember: `"There is no escape from the enemy who lives within." - Mehdi Sadaghdar, 2013`
 
 - **Notable projects**
@@ -12,6 +12,7 @@
 - TestBot
 - Teal for MPP
 - My site
+- Project Noema (in the works 🤫🤫👀)
 <!---
 ccjit/ccjit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
