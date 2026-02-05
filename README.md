@@ -1,6 +1,5 @@
 - 👋 Hi, I’m ccjt
 - 👀 I’m interested in coding and cubing and music production and art and color theory and math and sex
-- 🌱 I’m currently learning spanish and plan on learning Python for gamedev soon (oops i accidentally learned how to make games using html js and css)
 - 💞️ I’m looking to collaborate on anything web related that isn't a business
 - 📫 How to reach me: Friend me on my Discord, @circjit - or - Email me at circjit@gmail.com
 - 😄 Pronouns: https://en.pronouns.page/@sophb.ccjt
