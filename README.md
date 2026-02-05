@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ccjt
+- 👋 Hi, I’m Sophia (though, yoou can call me by Soph or ccjt)
 - 👀 I’m interested in coding and cubing and music production and art and color theory and math and sex
 - 💞️ I’m looking to collaborate on anything web related that isn't a business
 - 📫 How to reach me: Friend me on my Discord, @circjit - or - Email me at circjit@gmail.com
