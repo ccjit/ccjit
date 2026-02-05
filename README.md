@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning spanish and plan on learning Python for gamedev soon (oops i accidentally learned how to make games using html js and css)
 - 💞️ I’m looking to collaborate on anything web related that isn't a business
 - 📫 How to reach me: Friend me on my Discord, @circjit - or - Email me at circjit@gmail.com
-- 😄 Pronouns: she/her
+- 😄 Pronouns: https://en.pronouns.page/@sophb.ccjt
 - ✨ Fun fact: I came
 - ⚡ Always remember: `"There is no escape from the enemy who lives within." - Mehdi Sadaghdar, 2013`
 
