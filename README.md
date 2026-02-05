@@ -12,7 +12,7 @@
 - TestBot
 - Teal for MPP
 - My site
-- Project Noema (in the works 🤫🤫👀)
+- Project Noema (need devs!)
 <!---
 ccjit/ccjit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
